@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ace_style" parent="Theme.AppCompat.Light">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">70dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="labs_style" parent="Theme.AppCompat.Light">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">55dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+</resources>
